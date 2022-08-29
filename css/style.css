@@ -46,7 +46,7 @@
     margin: 0 auto;
   }
   .futured_image_max{
-    display: none;
+    display: none !important;
   }
   /* ===========================
           Project Info  
