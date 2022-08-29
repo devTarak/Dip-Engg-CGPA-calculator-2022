@@ -192,8 +192,10 @@
       width: 90%;
     }
     .project-info{
-      margin-bottom: -240px;
+      margin-bottom: -85px;
+      border-radius: 0 0 0 0 !important;
     }
+    
   
     .calculator-options,
     .calculator-body {
