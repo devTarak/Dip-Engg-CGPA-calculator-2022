@@ -42,7 +42,7 @@
   }
   
   .container {
-    width: 520px;
+    width: 620px;
     margin: 0 auto;
   }
   /* ===========================
@@ -52,13 +52,14 @@
   .project-info {
     min-height: 500px;
     width: 100%;
-    background: linear-gradient(45deg, #3964fe, #47c3fd);
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
+    background: linear-gradient(45deg, #6B48FF, #d89cff);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
     padding-top: 2em;
     text-align: center;
     color: #ffffff;
-    margin-bottom: -270px;
+    margin-bottom: -200px;
     z-index: -1;
+    border-radius: 0 0 50% 50%;
   }
   /* ============================
               Calculator 
@@ -84,10 +85,11 @@
     background: #faf9fa;
     display: flex;
     align-items: center;
+    padding: 5% 30%;
   }
   
   .calculator-options button.active {
-    background: #2e84fe;
+    background: #6B48FF;
     color: #fffeff;
   }
   
