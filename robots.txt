@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /README.md/
+Sitemap: https://devtarak.github.io/Dip-Engg-CGPA-calculator-2022/sitemap.xml
